@@ -60,6 +60,25 @@ nav ul li a {
 
 /* Estilos para el contenido principal */
 main {
+     <style>
+    
+        .slider-container {
+            max-width: 800px;
+            margin: 0 auto;
+            position: right;
+            overflow: hidden;
+        }
+      
+        .slider-content {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+       
+        .slider-item {
+            min-width: 100%;
+            flex: 0 0 auto; 
+        }
+    </style>
     /* Relleno interno del contenido principal */
     padding: 1rem;
     text-align: center;
