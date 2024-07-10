@@ -8,25 +8,7 @@ body {
     /* Color de fondo del sitio web */
     background-image:url(emiliano.jpg) ;
     
-    <style>
-    
-        .slider-container {
-            max-width: 800px;
-            margin: 0 auto;
-            position: center;
-            overflow: hidden;
-        }
-      
-        .slider-content {
-            display: flex;
-            transition: transform 0.5s ease;
-        }
-       
-        .slider-item {
-            min-width: 100%;
-            flex: 0 0 auto; 
-        }
-    </style>
+  
     
 }
 
