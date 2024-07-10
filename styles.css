@@ -13,7 +13,7 @@ body {
         .slider-container {
             max-width: 600px;
             margin: 0 auto;
-            position: right;
+            position: center;
             overflow: hidden;
         }
       
