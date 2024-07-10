@@ -12,7 +12,7 @@ body {
         .slider-container {
             max-width: 800px; /* Ancho máximo del slider */
             margin: 0 auto; /* Centra el slider horizontalmente */
-            position: center; /* Posición relativa para los elementos internos */
+            position: relative; /* Posición relativa para los elementos internos */
             overflow: hidden; /* Oculta cualquier contenido que sobresalga del contenedor */
         }
       
