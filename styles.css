@@ -7,10 +7,11 @@ body {
     padding: 0;
     /* Color de fondo del sitio web */
     background-image:url(emiliano.jpg) ;
-     <style>
+    
+    <style>
     
         .slider-container {
-            max-width: 800px;
+            max-width: 600px;
             margin: 0 auto;
             position: right;
             overflow: hidden;
