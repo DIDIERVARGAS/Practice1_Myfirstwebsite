@@ -47,7 +47,7 @@ header {
         {
             display: block;
         }
-        nav ul li:hover ul {
+        li:hover ul {
             display: block;
         }
 
