@@ -31,10 +31,10 @@ header {
     display: block;
             padding: 10px 20px;
             text-decoration: none;
-            color: white;
+            color:666666 ;
         }
 
-        nav ul li ul {
+        {
             display: none;
             position: absolute;
             top: 100%;
@@ -44,7 +44,7 @@ header {
             margin: 0;
         }
 
-        nav ul li ul li {
+        {
             display: block;
         }
         nav ul li:hover ul {
