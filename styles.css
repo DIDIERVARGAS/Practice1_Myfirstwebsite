@@ -31,7 +31,7 @@ nav ul li a {
     display: block;
             padding: 10px 20px;
             text-decoration: none;
-            color: white;
+            color: 666666;
         }
 
         nav ul li ul {
@@ -53,9 +53,10 @@ nav ul li a {
 /* Estilos para los elementos de la lista en la barra de navegación */
 nav ul li {
     /* Muestra los elementos en línea */
-    display: inline;
+    display: inline-block;
     /* Elimina los márgenes */
     margin: 0;
+    position: relative;
 }
 
 /* Estilos para los enlaces en la barra de navegación */
