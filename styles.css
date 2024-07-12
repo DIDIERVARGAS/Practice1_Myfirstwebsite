@@ -27,7 +27,7 @@ header {
 }
 
 /* Estilos para la barra de navegación */
-nav ul li a {
+{
     display: block;
             padding: 10px 20px;
             text-decoration: none;
